@@ -1,2 +1,2 @@
 # Salt-and-Pepper-Filter-CUDA
-Median Filter
+Median filter is one of the well-known order-statistic filters due to its good performance for some specific noise types such as “Gaussian,” “random,” and “salt and pepper” noises. According to the median filter, the center pixel of a M × M neighborhood is replaced by the median value of the corresponding window. Note that noise pixels are considered to be very different from the median. Using this idea median filter can remove this type of noise problems . We use this filter to remove the noise pixels on the protein crystal images before binarization operation.
