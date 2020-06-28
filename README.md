@@ -30,7 +30,7 @@ Distorted image (noise 8%) | Filtered image (CPU)
 ------------ | ------------- 
 Distorted image (noise 8%) | Filtered image (GPU)
 
-Average results after 100 times of runs. Matrix elements type is integer.
+Average results after 100 times of runs.
 
 |    Size     |          CPU        |         GPU       | Acceleration |
 |-------------|---------------------|-------------------|--------------|
