@@ -26,6 +26,10 @@ Build and Run
 ------------ | ------------- 
 Distorted image (noise 8%) | Filtered image (CPU)
 
+<img src="https://github.com/VladislavPVI/Salt-and-Pepper-Filter-CUDA/blob/master/DOC/NoiseAngelina.jpg" width="480" height="300" /> | <img src="https://github.com/VladislavPVI/Salt-and-Pepper-Filter-CUDA/blob/master/DOC/GPUoutAngelina.jpg" width="480" height="300" />
+------------ | ------------- 
+Distorted image (noise 8%) | Filtered image (GPU)
+
 Average results after 100 times of runs. Matrix elements type is integer.
 
 |    Size     |          CPU        |         GPU       | Acceleration |
