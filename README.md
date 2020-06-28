@@ -17,7 +17,7 @@ Build and Run
 |-------|---------|
 | CPU  | Intel® Pentium® G860 |
 | RAM  | 6 GB DDR3 |
-| GPU  | GeForce GTX 750 Ti 2GB |
+| GPU  | GeForce GTX 750 Ti 2GB (overlock) |
 | OS   | Windows 10 64-bit  |
 
 ## Results
